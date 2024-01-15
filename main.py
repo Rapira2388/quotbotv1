@@ -9,7 +9,7 @@ from answersall import answers
 
 # подключение ключей к опенаи и телеге
 # dp = Dispatcher(bot)
-bot = aiogram.Bot('5901628369:AAHvKAuDi0s0Y03uWbRyzinMHI2u400So40')
+bot = aiogram.Bot('СМОТРИ В ИСХОДНИКАХ НА КОМПЕ')
 dp = aiogram.Dispatcher(bot)
 
 
